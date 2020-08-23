@@ -1,2 +1,7 @@
 #Google Analytics
 google_analytics: UA-176058963-1  # your google analytics
+
+
+# Comments
+disqus:
+  shortname: jiao-math.github.io/jiao.he/   # your disqus shortname
